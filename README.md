@@ -1,5 +1,9 @@
 # Vaibhav Bhavsar
 
-## Associate at MSCI INC.
+## Senior Software Engineer at Klarna
 ### Summary
-Software Engineer with around 6 years experience specializing in backend, frontend UI, and Cross-platform desktop application development. Possess comprehensive knowledge of JavaScript with solid understanding of asynchronous programming. Super nerd who enjoys to customize the development environment. Interested in devising a better problem-solving method for challenging tasks, and learning new technologies and tools if the need arises.
+Experienced software professional with 8 years of expertise
+in JavaScript technologies, demonstrating a strong
+passion for advancing my software career. Committed to
+delivering cutting-edge solutions and constantly expanding
+my knowledge to stay at the forefront of the industry.
